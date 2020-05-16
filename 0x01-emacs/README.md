@@ -22,8 +22,15 @@
 
 # Tasks :heavy_check_mark:
 
-* Create and setup your Git and Github account
-* create a new directory called 0x00-vagrant. Add a README.md file to this directory
+* What is the command to open a file from within Emacs?
+* What is the command to save a file?
+* What is the command to cut an entire line?
+* What is the command to paste?
+* What is the command to search forward?
+* What is the command to undo?
+* What is the command to quit Emacs?
+* What is the command to play Tetris inside Emacs?
+* What is the command to talk to your doctor?
 
 # Additional info :construction:
 
@@ -33,5 +40,5 @@
  $ sudo apt-get update 
  $ sudo apt-get upgrade 
  $ sudo apt-get install emacs
-
+```
 
