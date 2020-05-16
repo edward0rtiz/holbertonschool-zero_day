@@ -1,6 +1,5 @@
 # HolbertonSchool Zero_day :floppy_disk:
 
-[![C|C](https://img.shields.io/badge/Shell-100.0%20%-bgreen.svg)](https://sourcerer.io/edward0rtiz)
 
 
 > This was my first repository from now on every aspect of my professional track is not only in my professional social networks is on git too 
