@@ -31,3 +31,26 @@
 
 * Create and setup your Git and Github account
 * create a new directory called 0x00-vagrant. Add a README.md file to this directory
+
+# Additional info :construction:
+### Install Git
+
+If git is not already installed on your terminal:
+```sh
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install git
+```
+
+At the end of this project I am able to reproduce and understand these command lines:
+```sh
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git commit -m "Initial commit"
+$ git push origin master
+```
+
+
+
+
