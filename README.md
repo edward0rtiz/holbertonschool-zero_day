@@ -14,7 +14,7 @@
 
 # Stack :books:
 
-This repository used the folloing main stack:
+This repository used the following main stack:
 | Tool/Library| 
 | ------------------------------------| 
 | [Emacs](https://www.gnu.org/software/emacs/)| 
